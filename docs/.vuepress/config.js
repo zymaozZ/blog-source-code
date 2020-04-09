@@ -43,7 +43,7 @@ module.exports = {
         },
         nav: [
             { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
-            { text: 'Github', link: 'https://github.com/smilechenjia/', target: '_blank', icon: 'reco-github' }
+            { text: 'Github', link: 'https://github.com/zymaozZ/', target: '_blank', icon: 'reco-github' }
         ],
         sidebar: 'auto',
         sidebarDepth: 2
