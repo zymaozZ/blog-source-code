@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "dev": "/usr/local/Cellar/node/12.4.0/bin/vuepress dev docs",
+        "build": "/usr/local/Cellar/node/12.4.0/bin/vuepress build docs",
+        "deploy": "bash deploy.sh"
+    }
+}
