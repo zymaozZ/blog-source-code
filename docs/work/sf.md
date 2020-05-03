@@ -5,7 +5,7 @@ function t()
 {
   if (false) {
   	throw exception();
-`}
+	}
 }
 
 try {

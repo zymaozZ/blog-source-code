@@ -1,6 +1,6 @@
 module.exports = {
     title: 'zymao',
-    description: '我爱学习学习爱我',
+    description: '种一棵树最好的时间是十年前，其次是现在',
     serviceWorker: true,
     head: [ 
         // 标签栏里的头像
@@ -22,14 +22,15 @@ module.exports = {
                 desc: '我的github主页',
                 logo: "/img/base/github.png",
                 link: 'https://github.com/zymaozZ',
-                email: 'recoluan@qq.com'
-            },
-            {
-                title: '掘金',
-                desc: '我的掘金主页',
-                logo: "https://b-gold-cdn.xitu.io/v3/static/img/simplify-logo.3e3c253.svg",
-                link: 'https://juejin.im/user/57c5c9f4a341316fa6340e9a'
+                email: '872883972@qq.com'
             }
+            // ,
+            // {
+            //     title: '掘金',
+            //     desc: '我的掘金主页',
+            //     logo: "https://b-gold-cdn.xitu.io/v3/static/img/simplify-logo.3e3c253.svg",
+            //     link: 'https://juejin.im/user/57c5c9f4a341316fa6340e9a'
+            // }
         ],
         blogConfig: {
             category: {
