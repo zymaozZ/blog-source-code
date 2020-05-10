@@ -2,7 +2,7 @@
 title: BloomFilter
 date: 2020-04-14
 categories: 
- - 后端
+ - 	技术
 tags:
  - redis
 publish: false
