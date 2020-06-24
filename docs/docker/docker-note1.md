@@ -61,6 +61,7 @@ docker container run -d --name c1 -p 80:8080 web:latest
 # 查看镜像构建过程了执行了哪些指令
 docker image history web:latest
 
+# docker-compose 中 volume 目录需要加上 / ？？
 ```
 ``` yaml
 version: '3'
